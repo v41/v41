@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @v41
 - 👀 I’m interested in transportation, GIS, tourism, food & beverages
-- 🌱 I’m currently learning about Blockchain
-- 💞️ I’m looking to collaborate on Metaverse and Location Based Gaming
+- 🌱 I’m currently learning about Behavioral Operations Research and Blockchain
+- 💞️ I’m looking to collaborate on Site Selection, Hyperlocal Delivery, Metaverse and Location Based Gaming
 - 📫 You can reach me on admin@viceaster.com
 
 <!---
